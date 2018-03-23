@@ -1,0 +1,9 @@
+# .gitignore
+/.idea/
+/out/
+/lib/
+/web/
+pom.xml
+/src/*.xml
+/src/main/resources/
+/target/
