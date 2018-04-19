@@ -1,9 +1,5 @@
 # .gitignore
 /.idea/
-/out/
-/lib/
-/web/
+/.Log/
 pom.xml
-/src/*.xml
-/src/main/resources/
-/target/
+task.txt
