@@ -1,8 +1,8 @@
-package com.caches.cache;
+package ua.pp.sola.caches.cache;
 
-import com.caches.dao.InMemoryEntityDao;
-import com.caches.entity.Entity;
-import com.caches.entity.EntityFactory;
+import ua.pp.sola.caches.dao.InMemoryEntityDao;
+import ua.pp.sola.caches.entity.Entity;
+import ua.pp.sola.caches.entity.EntityFactory;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

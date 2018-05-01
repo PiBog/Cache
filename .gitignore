@@ -1,5 +1,7 @@
 # .gitignore
 /.idea/
 /.Log/
+/lib/
+/target/
 pom.xml
 task.txt

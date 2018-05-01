@@ -1,7 +1,7 @@
-package com.caches.dao;
+package ua.pp.sola.caches.dao;
 
-import com.caches.utils.Assert;
-import com.caches.entity.Entity;
+import ua.pp.sola.caches.utils.Assert;
+import ua.pp.sola.caches.entity.Entity;
 
 import java.util.HashMap;
 import java.util.Map;

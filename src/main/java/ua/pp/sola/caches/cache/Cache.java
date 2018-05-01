@@ -1,4 +1,4 @@
-package com.caches.cache;
+package ua.pp.sola.caches.cache;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.caches.dao;
+package ua.pp.sola.caches.dao;
 
 public interface CrudDao<ID, E> {
 

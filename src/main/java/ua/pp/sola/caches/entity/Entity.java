@@ -1,6 +1,6 @@
-package com.caches.entity;
+package ua.pp.sola.caches.entity;
 
-import com.caches.utils.Assert;
+import ua.pp.sola.caches.utils.Assert;
 
 public class Entity {
 

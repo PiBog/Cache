@@ -1,4 +1,4 @@
-package com.caches.utils;
+package ua.pp.sola.caches.utils;
 
 public final class Assert {
 

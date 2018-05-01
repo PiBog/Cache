@@ -1,4 +1,4 @@
-package com.caches.entity;
+package ua.pp.sola.caches.entity;
 
 public class EntityFactory {
 
